@@ -22,6 +22,9 @@ func main(){
 	h = -87132847912833
 	i = -300.98980
 	j = 49909.37432423442
+
+	 k:=234234
+	 l:=23423.877898987
 	fmt.Println(a)
 	fmt.Printf("%T\n",a)
 	fmt.Println(b)
@@ -42,5 +45,10 @@ func main(){
 	fmt.Printf("%T\n",i)
 	fmt.Println(j)
 	fmt.Printf("%T\n",j)
+	fmt.Println(k)
+	fmt.Printf("%T\n",k)
+	fmt.Println(l)
+	fmt.Printf("%T\n",l)
+
 
 }
