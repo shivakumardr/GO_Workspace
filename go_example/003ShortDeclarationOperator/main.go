@@ -13,6 +13,6 @@ func main() {
 	n, errn := fmt.Println(strg)
 	fmt.Println(n, errn)
 	//	z:=80
- 	//	__z
+	//	__z
 
 }

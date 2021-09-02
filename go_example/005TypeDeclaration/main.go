@@ -10,9 +10,9 @@ var y = 42
 // is of TYPE string
 // and I ASSIGN the VALUE "shaken, not stirred"
 
-var z string = "Shaken, not stirred"
+var z = "Shaken, not stirred"
 
-var a string = `James said, 
+var a = `James said, 
 "Shaken, 
 
 not stirred"`

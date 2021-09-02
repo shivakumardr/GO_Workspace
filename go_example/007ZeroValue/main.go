@@ -25,13 +25,14 @@ var z string
 var x int
 var y float32
 var xx complex64
-func main(){
+
+func main() {
 	fmt.Println(z)
-	fmt.Printf("%T\n",z)
+	fmt.Printf("%T\n", z)
 	fmt.Println(x)
-	fmt.Printf("%T\n",x)
+	fmt.Printf("%T\n", x)
 	fmt.Println(y)
-	fmt.Printf("%T\n",y)
+	fmt.Printf("%T\n", y)
 	fmt.Println(xx)
-	fmt.Printf("%T\n",xx)
+	fmt.Printf("%T\n", xx)
 }

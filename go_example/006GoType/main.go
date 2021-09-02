@@ -10,9 +10,9 @@ var y = 42
 // is of TYPE string
 // and I ASSIGN the VALUE "shaken, not stirred"
 
-var z string = "in go we can use cote like this"
+var z = "in go we can use cote like this"
 
-var a string = `we can use like, 
+var a = `we can use like, 
 "this, 
 
 as well"`
