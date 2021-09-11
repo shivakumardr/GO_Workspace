@@ -14,13 +14,13 @@ print out the type of the variable “x”
 assign 42 to the VARIABLE “x” using the “=” OPERATOR
 print out the value of the variable “x”
 
- */
-func main(){
+*/
+func main() {
 	type myint int
 	var x myint
 	fmt.Println(x)
 	fmt.Printf("%T\n", x)
-	x =43
+	x = 43
 	fmt.Println(x)
 	fmt.Printf("%T\n", x)
 

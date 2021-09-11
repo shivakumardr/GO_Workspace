@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 )
+
 /*\
 Building on the code from the previous example
 at the package level scope, using the “var” keyword, create a VARIABLE with the IDENTIFIER “y”. The variable should be of the UNDERLYING TYPE of your custom TYPE “x”
@@ -18,7 +19,7 @@ then use the “=” operator to ASSIGN that value to “y”
 print out the value stored in “y”
 print out the type of “y”
 
- */
+*/
 type hotdog int
 
 var x hotdog

@@ -15,7 +15,7 @@ func main() {
 	fmt.Println(x[4])
 	fmt.Println(x[5])
 	fmt.Println("............")
-	for i, v:= range x{
-		fmt.Println(i,v)
+	for i, v := range x {
+		fmt.Println(i, v)
 	}
 }

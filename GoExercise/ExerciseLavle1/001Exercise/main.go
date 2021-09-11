@@ -12,11 +12,11 @@ a single print statement
 multiple print statements
 
 */
-func main(){
-	x:= 42
-	y:="james Bond"
-	z:= true
-	fmt.Println("X =",x, "Y= ",y,"Z=", z)
+func main() {
+	x := 42
+	y := "james Bond"
+	z := true
+	fmt.Println("X =", x, "Y= ", y, "Z=", z)
 	fmt.Println("X =", x)
 	fmt.Println("Y =", y)
 	fmt.Println("Z =", z)

@@ -1,9 +1,11 @@
- package main
- import (
-	 "fmt"
-	 "time"
- )
-func main(){
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
 	i := 2
 	fmt.Print("Write ", i, " as ")
 	switch i {
