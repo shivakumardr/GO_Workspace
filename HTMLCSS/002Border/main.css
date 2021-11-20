@@ -1,0 +1,18 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red ;
+}
+img{
+    border: 10px groove orchid;
+}
+
+.one{
+    border: 10px dashed orchid;
+}
+.two{
+    border: 10px dotted orchid;
+}
+.three{
+    border: 10px double orchid;
+}

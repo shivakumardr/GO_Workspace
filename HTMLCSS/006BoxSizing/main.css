@@ -1,0 +1,25 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red ;
+    border-radius: 20px;
+    display: inline-block;
+}
+img{
+    width: 200px;
+     box-sizing: border-box;/* it fix the size of the box to 200px including  pdding and border */
+    border: 10px groove orchid;
+    /* border-radius: 60%; */
+    padding: 20px;
+    margin: 20px;
+}
+
+.one{
+    border: 10px dashed orchid;
+}
+.two{
+    border: 10px dotted orchid;
+}
+.three{
+    border: 10px double orchid;
+}

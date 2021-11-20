@@ -1,0 +1,25 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red ;
+    /* border-radius: 100%; */
+    border-radius: 20px;
+    /* background-image: url("../Excersie1/image/Puppy.jpg"); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    display: inline-block;
+}
+img{
+    border: 10px groove orchid;
+    border-radius: 60%;
+}
+
+.one{
+    border: 10px dashed orchid;
+}
+.two{
+    border: 10px dotted orchid;
+}
+.three{
+    border: 10px double orchid;
+}

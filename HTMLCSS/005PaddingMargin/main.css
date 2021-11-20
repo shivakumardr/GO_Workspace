@@ -1,0 +1,24 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red ;
+    border-radius: 20px;
+    display: inline-block;
+}
+img{
+    width: 100px;
+    border: 10px groove orchid;
+    border-radius: 60%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.one{
+    border: 10px dashed orchid;
+}
+.two{
+    border: 10px dotted orchid;
+}
+.three{
+    border: 10px double orchid;
+}
