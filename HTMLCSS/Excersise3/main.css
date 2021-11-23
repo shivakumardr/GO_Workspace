@@ -1,0 +1,30 @@
+html{
+    background-color: dodgerblue;
+}
+body{
+    width: 60%;
+    margin: 0 auto;
+    background-color: lightgreen;
+    border: 5px solid black;
+
+}
+
+
+img{
+    display: block;
+    border-radius: 100%;
+    border: 10px ridge gold; 
+    margin: 0 auto;
+    
+}
+#primery{
+    padding-left: 10px;
+    color: darkblue;
+}
+#secondery{
+    padding-left: 10px;
+    color: red;
+}
+p{
+    padding-left: 10px;
+}

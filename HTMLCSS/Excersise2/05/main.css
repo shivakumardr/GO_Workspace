@@ -1,0 +1,11 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-image: url("../../Excersie1/image/Puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: crimson;
+    border: 20px groove tomato ;
+    border-radius: 20px;
+    borde
+}
