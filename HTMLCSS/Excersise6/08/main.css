@@ -1,0 +1,7 @@
+p{
+    text-decoration: line-through;
+}
+a:hover{
+    color: yellow;
+    text-decoration: underline;
+}

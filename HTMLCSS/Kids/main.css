@@ -1,5 +1,6 @@
 html{
     background-color: grey;
+    background-image: url(img/chinnu.jpg.jpeg);
 }
 .chinnu{
     color: rgb(255, 166, 0);
@@ -13,7 +14,7 @@ html{
     margin: 0 auto;
     display: block;
     border: 10px groove rgb(255, 166, 0);
-    border-radius: 40px;
+    border-radius: 100%;
 }
 .Sonu{
     
